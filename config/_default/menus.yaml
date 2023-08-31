@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external-583830379-1670358756563
+  name: Fall 2022 Course
+  url: https://manipulation.csail.mit.edu/Fall2022/
+  weight: 10
+- identifier: external--1761751855-1670358769802
+  name: Online Textbook
+  url: https://manipulation.mit.edu/
+  weight: 20
